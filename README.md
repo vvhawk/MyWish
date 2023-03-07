@@ -28,9 +28,17 @@ Embed link in name to make UI nicer
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Overview
+
+<img src="./extras/overview.gif" width="200" height="400"/>
+
+### Links
+
+<img src="./extras/links.gif" width="200" height="400"/>
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
