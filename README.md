@@ -1,10 +1,10 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *MyWish*
 
-Submitted by: **Your Name Here**
+Submitted by: **Vasanth Banumurthy**
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**MyWish** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -17,11 +17,14 @@ The following **optional** features are implemented:
 
 - [X] Wishlist app is 🎨 **customized** 🎨
 - [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [X] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
+NA
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
+
+Embed link in name to make UI nicer
 
 ## Video Walkthrough
 
